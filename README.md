@@ -1,3 +1,3 @@
 # DEF CON 225
 
-The official [DEF CON 225](https://github.com/dc225) Github Account has moved to [@dc225](https://github.com/dc225)
+The official [DEF CON 225](http://defcon225.org) Github Account has moved to [@dc225](http://defcon225.org)
